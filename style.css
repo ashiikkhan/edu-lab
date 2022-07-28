@@ -10,3 +10,15 @@
   background: #289bde;
   color: white;
 }
+.edu-lab-fs-1 {
+  font-size: 65px;
+}
+.edu-lab-btn {
+  background: #289bde;
+  border: 1px solid #289bde;
+  color: white;
+}
+.edu-lab-btn:hover {
+  background: #1d8dce;
+  border: 1px solid #289bde;
+}
