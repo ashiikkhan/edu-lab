@@ -1,0 +1,12 @@
+.dark-2 {
+  color: #4a4a4a;
+}
+.edu-lab-btn-outline {
+  border: 1px solid #289bde;
+  color: #289bde;
+}
+.edu-lab-btn-outline:hover {
+  border: 1px solid #289bde;
+  background: #289bde;
+  color: white;
+}
