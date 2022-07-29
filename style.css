@@ -61,10 +61,26 @@
 }
 
 /* media query */
+
 @media screen and (max-width: 768px) {
   .description,
   .button {
     width: 100%;
+  }
+  .edu-lab-fs-1 {
+    font-size: 36px;
+  }
+  .edu-lab-text {
+    font-size: 12px;
+  }
+  .edu-lab-fs-2 {
+    font-size: 36px;
+  }
+  .edu-lab-fs-3 {
+    font-size: 32px;
+  }
+  .edu-lab-fs-4 {
+    font-size: 22px;
   }
 }
 
@@ -72,5 +88,11 @@
   .edu-lab-img-fluid {
     width: 100%;
     height: 223px;
+  }
+  .edu-lab-fs-1 {
+    font-size: 24px;
+  }
+  .edu-lab-text {
+    font-size: 10px;
   }
 }
