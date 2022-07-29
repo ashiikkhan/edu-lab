@@ -10,9 +10,13 @@
 .blue-1 {
   color: #289bde;
 }
+.edu-lab-bg-blue-1 {
+  background-color: #289bde;
+}
 .edu-lab-btn-outline {
   border: 1px solid #289bde;
   color: #289bde;
+  background-color: white;
 }
 .edu-lab-btn-outline:hover {
   border: 1px solid #289bde;
@@ -42,7 +46,18 @@
   width: 100%;
   height: auto;
 }
+.description,
+.button {
+  width: 50%;
+}
 /* media query */
+@media screen and (max-width: 768px) {
+  .description,
+  .button {
+    width: 100%;
+  }
+}
+
 @media screen and (max-width: 576px) {
   .edu-lab-img-fluid {
     width: 100%;
