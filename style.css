@@ -16,6 +16,9 @@
 .edu-lab-bg-dark-1 {
   background: #161616;
 }
+.edu-lab-overlay {
+  filter: brightness(60%);
+}
 .edu-lab-btn-outline {
   border: 1px solid #289bde;
   color: #289bde;
